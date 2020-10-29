@@ -1,61 +1,52 @@
-# Namaste 🙏🏼, I am Vaibhav V. Gupta
+### Namaste 🙏🏼, I am [Vaibhav V. Gupta][website]💻🎧🎮🎹
 
-I am a Freelance consultant with 15+ years of experience in the field of Computer Science, Marketing-Advertisement, IT Training and Animation.
+<br />
 
 [![Website](https://img.shields.io/website?label=vvgonline.net&style=for-the-badge&url=https%3A%2F%2Fvvgonline.net)](https://vvgonline.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvvgonlinedotentr&screen_name=VVGonlinedotnet)
 
-### I Design graphics & UI/UX 💻
-
-### I Code using C#, Php, C++ & Js 💻
-
-### I Market products & services online 🛒
-
-### I Train beginners 👨🏼‍🎓, help them land a job
-
-### I Play games 🎮 & piano 🎹🎧
+# I am a Freelance consultant with 15+ years of experience in the field of Computer Science, Marketing-Advertisement, IT Training and Animation.
 
 <br />
 
-🌱 I’m currently learning Blazor 🔥
+- I Design graphics & UI/UX 💻
 
-----
+- I Code using C#, Php, C++ & Js 💻
 
-#### 📮 How to reach me:
+- I Market products & services online 🛒
 
-<br />
+- I Train beginners 👨🏼‍🎓, help them land a job
 
-[Website: <img align="left" alt="vvgonline" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+- I Play games 🎮 & piano 🎹🎧
 
-<br />
-
-[YouTube: <img align="left" alt="VVGonline | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+- 🌱 I’m currently learning [Blazor](https://blazor.net/) 🔥
 
 <br />
 
-[Twitter: <img align="left" alt="VVGonline | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+### 📮 How to reach me:
 
 <br />
 
-[LinkedIn: <img align="left" alt="VVGonline | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.instagram.com/vvgonline/">
+    <img alt="VVGonline | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCsFTSQ6exutOIpP-wHl8qQQ">
+    <img alt="VVGonline | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://www.instagram.com/vvgonline/">
+    <img alt="VVGonline | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
-
-[Instagram: <img align="left" alt="VVGonline | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 <br />
-
-----
 
 <details>
 
   <summary>⚡ GitHub Stats</summary>
 
-  [![VVGonline's github stats](https://github-readme-stats.vercel.app/api?username=vvgonline)](https://github.com/vvgonline)
+[![VVGonline's github stats](https://github-readme-stats.vercel.app/api?username=vvgonline&show_icons=true&theme=synthwave)](https://github.com/vvgonline)
 
 </details>
-
 
 <!--
 Hi there 👋
