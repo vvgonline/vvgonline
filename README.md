@@ -40,6 +40,19 @@
 <br />
 <br />
 
+### 📺 Latest YouTube posts
+
+<br />
+
+### 📥 Latest StackOverflow feed
+
+<br />
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+<br />
+
 <details>
 
   <summary>⚡ GitHub Stats</summary>
