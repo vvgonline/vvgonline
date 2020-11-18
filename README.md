@@ -52,6 +52,9 @@
 <br />
 
 <!-- STACKOVERFLOW:START -->
+- [Samsung A50 SloMo Full Video](https://www.youtube.com/watch?v=-rJu5IAIPz8)
+- [Nvidia to acquire ARM for 40 billion USD! What do I think 🤔 ? Good 😎 :  Bad 😟 // VVGonline](https://www.youtube.com/watch?v=2dfVJbpozHQ)
+- [Project Cars (PC) // Legion Y740 with i7-9750H + RTX 2070 Max-q // VVGonline](https://www.youtube.com/watch?v=Up0nvwTyGUo)
 <!-- STACKOVERFLOW:END -->
 
 <br />
