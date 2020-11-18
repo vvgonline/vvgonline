@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-stack-overflow:
@@ -17,4 +18,4 @@ jobs:
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/12231206"
           # Maximum number of posts you want
-          max_post_count: 3
+          max_post_count: "3"
