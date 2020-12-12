@@ -45,9 +45,9 @@
 <br />
 
 <!-- YOUTUBE:START -->
-- [4K Test Video | War Thunder | Object 906 Helo kill | 30fps](https://www.youtube.com/watch?v=h3rePqwO_fA)
 - [Samsung A50 SloMo Full Video](https://www.youtube.com/watch?v=-rJu5IAIPz8)
 - [Nvidia to acquire ARM for 40 billion USD! What do I think 🤔 ? Good 😎 :  Bad 😟 // VVGonline](https://www.youtube.com/watch?v=2dfVJbpozHQ)
+- [Install Dotnet Core on Linux (Ubuntu 20.4 LTS) | VVGonline](https://www.youtube.com/watch?v=JUV7d1vYTgA)
 <!-- YOUTUBE:END -->
 
 ### 📥 Latest StackOverflow feed
