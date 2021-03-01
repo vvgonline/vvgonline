@@ -45,9 +45,9 @@
 <br />
 
 <!-- YOUTUBE:START -->
+- [Create new Solution & Projects using DotNet CLI](https://www.youtube.com/watch?v=89TPsF12BnY)
 - [Hathway (Indore) Speed Test](https://www.youtube.com/watch?v=MbgmkSnKeEI)
 - [Samsung A50 SloMo Full Video](https://www.youtube.com/watch?v=-rJu5IAIPz8)
-- [Nvidia to acquire ARM for 40 billion USD! What do I think 🤔 ? Good 😎 :  Bad 😟 // VVGonline](https://www.youtube.com/watch?v=2dfVJbpozHQ)
 <!-- YOUTUBE:END -->
 
 ### 📥 Latest StackOverflow feed
