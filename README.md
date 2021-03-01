@@ -45,7 +45,7 @@
 <br />
 
 <!-- YOUTUBE:START -->
-- [Create new Solution & Projects using DotNet CLI](https://www.youtube.com/watch?v=89TPsF12BnY)
+- [Create new Solution & Projects using Dotnet CLI](https://www.youtube.com/watch?v=89TPsF12BnY)
 - [Hathway (Indore) Speed Test](https://www.youtube.com/watch?v=MbgmkSnKeEI)
 - [Samsung A50 SloMo Full Video](https://www.youtube.com/watch?v=-rJu5IAIPz8)
 <!-- YOUTUBE:END -->
