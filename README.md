@@ -45,9 +45,9 @@
 <br />
 
 <!-- YOUTUBE:START -->
-- [Samsung A50 SloMo Full Video](https://www.youtube.com/watch?v=-rJu5IAIPz8)
-- [Nvidia to acquire ARM for 40 billion USD! What do I think 🤔 ? Good 😎 :  Bad 😟 // VVGonline](https://www.youtube.com/watch?v=2dfVJbpozHQ)
-- [Project Cars (PC) // Legion Y740 with i7-9750H + RTX 2070 Max-q // VVGonline](https://www.youtube.com/watch?v=Up0nvwTyGUo)
+- [Add Blazor to an existing ASP.NET MVC project](https://www.youtube.com/watch?v=luR_-CLlDU4)
+- [Create new Solution & Projects using Dotnet CLI](https://www.youtube.com/watch?v=89TPsF12BnY)
+- [Hathway (Indore) Speed Test](https://www.youtube.com/watch?v=MbgmkSnKeEI)
 <!-- YOUTUBE:END -->
 
 ### 📥 Latest StackOverflow feed
