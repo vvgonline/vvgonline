@@ -30,17 +30,17 @@
 <!-- <a href="https://www.instagram.com/vvgonline/" style="background-color: #0077b5;" width="40px" height="40px"> -->
 <a href="https://www.instagram.com/vvgonline/">
     <!-- <img alt="VVGonline | LinkedIn" width="20px" height="20px" align="center" style="padding: 1%; margin-bottom: 1.5%; margin-top: 1%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" heigth="20px" style="width: 20%">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" heigth="20px" style="max-width: 20%">
 </a>&nbsp;&nbsp;
 <!-- <a href="https://www.youtube.com/channel/UCsFTSQ6exutOIpP-wHl8qQQ" style="background-color: #c4302b"> -->
 <a href="https://www.youtube.com/channel/UCsFTSQ6exutOIpP-wHl8qQQ" >
     <!-- <img alt="VVGonline | YouTube"width="20px" height="20px" align="center" style="padding: 1%; margin-bottom: 1.5%; margin-top: 1%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Light_logo_of_YouTube_%282015-2017%29.svg" heigth="20px" style="width: 12%">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Light_logo_of_YouTube_%282015-2017%29.svg" heigth="20px" style="max-width: 12%">
 </a>&nbsp;&nbsp;
 <!-- <a href="https://www.instagram.com/vvgonline/" style="background-color: #5B51D8"> -->
 <a href="https://www.instagram.com/vvgonline/" >
     <!-- <img alt="VVGonline | Instagram" width="20px" height="20px" align="center" style="padding: 1%; margin-bottom: 1.5%; margin-top: 1%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/800px-Instagram_icon.png" heigth="20px" style="width: 6%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/800px-Instagram_icon.png" heigth="20px" style="max-width: 6%;">
 </a>
 
 <br />
