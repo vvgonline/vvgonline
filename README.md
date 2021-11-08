@@ -53,7 +53,7 @@
 <!-- YOUTUBE:START -->
 - [Jagmandir, Pichola Lake, Udaipur // 29.08.2021](https://www.youtube.com/watch?v=tk1Gqv2z5sc)
 - [Add Blazor to an existing ASP.NET MVC project](https://www.youtube.com/watch?v=luR_-CLlDU4)
-- [Create new Solution & Projects using Dotnet CLI](https://www.youtube.com/watch?v=89TPsF12BnY)
+- [Create new Solution &amp; Projects using Dotnet CLI](https://www.youtube.com/watch?v=89TPsF12BnY)
 <!-- YOUTUBE:END -->
 
 ### 📥 Latest StackOverflow feed
