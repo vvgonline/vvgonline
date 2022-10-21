@@ -2,7 +2,7 @@
 
 </br>
 
-![Version](https://img.shields.io/github/commits-since/vvgonline/vvgonline/v1.0.0.svg)
+<!-- ![Version](https://img.shields.io/github/commits-since/vvgonline/vvgonline/v1.0.0.svg) -->
 <img src="https://komarev.com/ghpvc/?username=vvgonline&label=Profile%20views&color=0e75b6&style=flat" alt="vvgonline" />
 
 <!-- [![Website](https://img.shields.io/website?label=vvgonline&style=for-the-badge&url=https%3A%2F%2Fvvgonline.net)][website] -->
@@ -139,7 +139,7 @@
 </br>
 
 [![VVGonline's github stats](https://github-readme-stats.vercel.app/api?username=vvgonline&show_icons=true&theme=synthwave)](https://github.com/vvgonline)
-![VVGonline github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![VVGonline github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vvgonline&theme=blue-green)
 
 <!--
 Hi there 👋
