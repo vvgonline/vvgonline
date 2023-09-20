@@ -112,6 +112,7 @@
 
 <!-- SOCIAL LINKS : STARTS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vvgonline-dot-net)
+[![YouTube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsFTSQ6exutOIpP-wHl8qQQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vvgonline/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/vvgonline)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vvgonline.net@gmail.com)](mailto:vvgonline.net@gmail.com)
@@ -158,8 +159,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- define links -->
-[website]: https://vvgonline.github.io/vvgonlineWEB/
+<!-- [website]: https://vvgonline.github.io/vvgonlineWEB/
 [youtube]: https://www.youtube.com/channel/UCsFTSQ6exutOIpP-wHl8qQQ
 [instagram]: https://www.instagram.com/vvgonline/
 [facebook]: https://facebook.com/vvgonline
-[linkedin]: https://in.linkedin.com/in/vvgonline-dot-net
+[linkedin]: https://in.linkedin.com/in/vvgonline-dot-net -->
