@@ -1,5 +1,8 @@
-<h1> 🙏🏼 Namaste, I am Vaibhav V. Gupta. I'm a digital business consultant who is passionate about providing quality and one-stop digital product/service solutions. In his time of 15 years, he has gained experience and expertise in creating customer advantage in all things — Design thinking, Digital product/service Development, Digital product/service Marketing, and Information Technology Management Training.
-</h1>
+<header> 
+<h2>
+🙏🏼 Namaste, I am Vaibhav V. Gupta. I'm a digital business consultant who is passionate about providing quality and one-stop digital product/service solutions. In his time of 15 years, he has gained experience and expertise in creating customer advantage in all things — Design thinking, Digital product/service Development, Digital product/service Marketing, and Information Technology Management Training.
+</h2>
+</header>
 
 </br>
 
