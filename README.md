@@ -2,13 +2,13 @@
 🙏🏼 Namaste, I am Vaibhav V. Gupta. I'm a digital business consultant who is passionate about providing quality and one-stop digital product/service solutions. In his time of 15 years, he has gained experience and expertise in creating customer advantage in all things — Design thinking, Digital product/service Development, Digital product/service Marketing, and Information Technology Management Training.
 </header>
 
-</br>
+</br></br>
 
 <!-- ![Version](https://img.shields.io/github/commits-since/vvgonline/vvgonline/v1.0.0.svg) -->
 <img src="https://komarev.com/ghpvc/?username=vvgonline&label=Profile%20views&color=0e75b6&style=flat" alt="vvgonline" />
-
+<br />
 [![Website](https://img.shields.io/website?label=vvgonline&style=for-the-badge&url=https://vvgonline.github.io/vvgonlineWEB/)](https://vvgonline.github.io/vvgonlineWEB/)
-
+<br />
 [![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvvgonlinedotentr&screen_name=VVGonlinedotnet)
 
 <!-- about -->
