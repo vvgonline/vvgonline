@@ -9,7 +9,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvvgonlinedotentr&screen_name=VVGonlinedotnet)
 
-## Vaibhav is a digital business consultant who is passionate about providing quality, and one stop digital product/service solutions. In his time of 15 years he has gained experience and expertise creating customer advantage in all things — Design thinking, Digital product/service Development, Digital product/service Marketing and Information Technology management Training
+<!-- about -->
+## Vaibhav is a digital business consultant who is passionate about providing quality and one-stop digital product/service solutions. In his time of 15 years, he has gained experience and expertise in creating customer advantage in all things — Design thinking, Digital product/service Development, Digital product/service Marketing, and Information Technology Management Training
 
 </br>
 
