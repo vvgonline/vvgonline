@@ -9,7 +9,7 @@ I'm a [Digital Business Consultant](https://vvgonline.github.io/vvgonlineWEB/Dbc
 
 [![Website](https://img.shields.io/website?label=vvgonline&style=for-the-badge&url=https://vvgonline.github.io/vvgonlineWEB/)](https://vvgonline.github.io/vvgonlineWEB/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?color=1DA1F2&logo=twitter&style=for-the-badge)](<https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvvgonlinedotentr&>
+[![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?color=1DA1F2&logo=twitter&style=for-the-badge)](<https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvvgonlinedotentr&>)
 
 <!-- ![VVGonline](/public/coverWithSafeAreas.png) -->
 
