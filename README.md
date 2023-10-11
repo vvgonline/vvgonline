@@ -1,20 +1,15 @@
-<header>
-🙏🏼 Namaste, I am Vaibhav V. Gupta. I'm a digital business consultant who is passionate about providing quality and one-stop digital product/service solutions. In his time of 15 years, he has gained experience and expertise in creating customer advantage in all things — Design thinking, Digital product/service Development, Digital product/service Marketing, and Information Technology Management Training.
-</header>
+# 🙏🏼 Namaste, I am Vaibhav V. Gupta
 
-</br>
+I'm a [Digital Business Consultant](https://vvgonline.github.io/vvgonlineWEB/Dbc) who is passionate about providing quality and one-stop digital product/service solutions. In his time of 15 years, he has gained experience and expertise in creating customer advantage in all things — [Design thinking](https://vvgonline.github.io/vvgonlineWEB/), [Digital Marketing](https://vvgonline.github.io/vvgonlineWEB/), and [Information Technology Management](https://vvgonline.github.io/vvgonlineWEB/itmtraining).
+
+---
 
 <!-- ![Version](https://img.shields.io/github/commits-since/vvgonline/vvgonline/v1.0.0.svg) -->
 <img src="https://komarev.com/ghpvc/?username=vvgonline&label=Profile%20views&color=0e75b6&style=flat" alt="vvgonline" />
 
 [![Website](https://img.shields.io/website?label=vvgonline&style=for-the-badge&url=https://vvgonline.github.io/vvgonlineWEB/)](https://vvgonline.github.io/vvgonlineWEB/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvvgonlinedotentr&screen_name=VVGonlinedotnet)
-
-<!-- about -->
-
-
-</br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?color=1DA1F2&logo=twitter&style=for-the-badge)](<https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvvgonlinedotentr&>
 
 <!-- ![VVGonline](/public/coverWithSafeAreas.png) -->
 
@@ -31,21 +26,12 @@
 
 - 🌱 I’m currently learning [Blazor](https://blazor.net/) 🔥
 -->
-
-</br>
-
 ## OS
-
-</br>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</br>
-
 ## Languages, Databases &amp; Frameworks
-
-</br>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
@@ -70,11 +56,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
-</br>
-
 ## Tools
-
-</br>
 
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![POWERSHELL](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
@@ -107,11 +89,7 @@
 <!-- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
 <!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 
-</br>
-
 ## 📮 How to reach me
-
-</br>
 
 <!-- SOCIAL LINKS : STARTS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vvgonline-dot-net)
@@ -121,11 +99,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vvgonline.net@gmail.com)](mailto:vvgonline.net@gmail.com)
 <!-- SOCIAL LINKS : ENDS -->
 
-</br>
-
 ## 📺 Latest YouTube posts
-
-</br>
 
 <!-- YOUTUBE:START -->
 - [Add Blazor to an existing ASP.NET MVC project](https://www.youtube.com/watch?v=luR_-CLlDU4)
@@ -136,11 +110,7 @@
 <!-- ### 📥 Latest StackOverflow feed
 <!-- STACKOVERFLOW:END -->
 
-</br>
-
 ## ⚡ GitHub Stats
-
-</br>
 
 [![VVGonline's github stats](https://github-readme-stats.vercel.app/api?username=vvgonline&show_icons=true&theme=synthwave)](https://github.com/vvgonline)
 ![VVGonline github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vvgonline&theme=blue-green)
