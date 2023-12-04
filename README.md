@@ -1,6 +1,7 @@
 # 🙏🏼 Namaste, I am Vaibhav V. Gupta
 
-I'm a [Digital Business Consultant](https://vvgonline.github.io/vvgonlineWEB/Dbc) who is passionate about providing quality and one-stop digital product/service solutions. In his time of 15 years, he has gained experience and expertise in creating customer advantage in all things — [Design thinking](https://vvgonline.github.io/vvgonlineWEB/), [Digital Marketing](https://vvgonline.github.io/vvgonlineWEB/), and [Information Technology Management](https://vvgonline.github.io/vvgonlineWEB/itmtraining).
+<!-- I'm a [Digital Business Consultant](https://vvgonline.github.io/vvgonlineWEB/Dbc) who is passionate about providing quality and one-stop digital product/service solutions. In his time of 15 years, he has gained experience and expertise in creating customer advantage in all things — [Design thinking](https://vvgonline.github.io/vvgonlineWEB/), [Digital Marketing](https://vvgonline.github.io/vvgonlineWEB/), and [Information Technology Management](https://vvgonline.github.io/vvgonlineWEB/itmtraining). -->
+VVG ONLINE does Designing, IT Development, Digital Marketing and IT TRAINING.
 
 ---
 
