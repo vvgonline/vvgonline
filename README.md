@@ -1,32 +1,23 @@
-# 🙏🏼 Namaste, I am Vaibhav V. Gupta
+# VVG ONLINE - Digital Business Consulting
 
 <!-- I'm a [Digital Business Consultant](https://vvgonline.github.io/vvgonlineWEB/Dbc) who is passionate about providing quality and one-stop digital product/service solutions. In his time of 15 years, he has gained experience and expertise in creating customer advantage in all things — [Design thinking](https://vvgonline.github.io/vvgonlineWEB/), [Digital Marketing](https://vvgonline.github.io/vvgonlineWEB/), and [Information Technology Management](https://vvgonline.github.io/vvgonlineWEB/itmtraining). -->
-VVG ONLINE does Designing, IT Development, Digital Marketing and IT TRAINING.
+
+##### Driving you beyond growth, through unique, innovative, and result-oriented services.
 
 ---
 
 <!-- ![Version](https://img.shields.io/github/commits-since/vvgonline/vvgonline/v1.0.0.svg) -->
-<img src="https://komarev.com/ghpvc/?username=vvgonline&label=Profile%20views&color=0e75b6&style=flat" alt="vvgonline" />
 
-[![Website](https://img.shields.io/website?label=vvgonline&style=for-the-badge&url=https://vvgonline.github.io/vvgonlineWEB/)](https://vvgonline.github.io/vvgonlineWEB/)
+![Profile views](https://komarev.com/ghpvc/?username=vvgonline&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?color=1DA1F2&logo=twitter&style=for-the-badge)](<https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvvgonlinedotentr&>)
+[![Website](https://img.shields.io/website?label=vvgonline&style=for-the-badge&url=https://vvgonline.github.io/vvgonlineWEB/)](https://www.vvgonline.net/)
 
-<!-- ![VVGonline](/public/coverWithSafeAreas.png) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?style=for-the-badge)](https://x.com/vvgonlinedotnet)
 
-<!--
-- I Design graphics & UI/UX 💻
+![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCsFTSQ6exutOIpP-wHl8qQQ?style=for-the-badge)
 
-- I Code using C#, Php, C++ & Js 💻
+[![Discord](https://img.shields.io/discord/940110143130062859?label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/uy69gfsUwK)
 
-- I Market products & services online 🛒
-
-- I Train beginners & professionals 👨🏼‍🎓, help them land a job 
-
-- I Play games 🎮 & piano 🎹🎧
-
-- 🌱 I’m currently learning [Blazor](https://blazor.net/) 🔥
--->
 ## OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -93,16 +84,19 @@ VVG ONLINE does Designing, IT Development, Digital Marketing and IT TRAINING.
 ## 📮 How to reach me
 
 <!-- SOCIAL LINKS : STARTS -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vvgonline-dot-net)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vvgonline-dot-net) -->
+
 [![YouTube](https://img.shields.io/badge/youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsFTSQ6exutOIpP-wHl8qQQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vvgonline/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/vvgonline)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vvgonline.net@gmail.com)](mailto:vvgonline.net@gmail.com)
+
 <!-- SOCIAL LINKS : ENDS -->
 
 ## 📺 Latest YouTube posts
 
 <!-- YOUTUBE:START -->
+
 - [Add Blazor to an existing ASP.NET MVC project](https://www.youtube.com/watch?v=luR_-CLlDU4)
 - [Create new Solution &amp; Projects using Dotnet CLI](https://www.youtube.com/watch?v=89TPsF12BnY)
 <!-- YOUTUBE:END -->
@@ -138,3 +132,5 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/vvgonline/
 [facebook]: https://facebook.com/vvgonline
 [linkedin]: https://in.linkedin.com/in/vvgonline-dot-net -->
+
+[def]: https://www.youtube.com/@vvgonline
