@@ -12,11 +12,11 @@
 
 [![Website](https://img.shields.io/website?label=vvgonline&style=for-the-badge&url=https://vvgonline.github.io/vvgonlineWEB/)](https://www.vvgonline.net/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?style=for-the-badge)](https://x.com/vvgonlinedotnet)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vvgonlinedotnet?style=for-the-badge&logo=x&logoColor=white&color=black)
 
-![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCsFTSQ6exutOIpP-wHl8qQQ?style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCsFTSQ6exutOIpP-wHl8qQQ?style=for-the-badge&logo=youtube&logoColor=red&label=follow%20vvgonline)
 
-[![Discord](https://img.shields.io/discord/940110143130062859?label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/uy69gfsUwK)
+<!-- [![Discord](https://img.shields.io/discord/940110143130062859?label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/uy69gfsUwK) -->
 
 ## OS
 
