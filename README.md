@@ -81,7 +81,11 @@
 <!-- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
 <!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 
-## 📮 How to reach me
+## VVG Online's "Edge"
+
+Elevate Your Business with [VVG Online's "Edge"](vvg-online-edge.md) Training. Unlock Transformation and Foster a Culture of Innovation with Expert Insights and Strategies for Success.
+
+## 📮 Connect with Us
 
 <!-- SOCIAL LINKS : STARTS -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vvgonline-dot-net) -->
