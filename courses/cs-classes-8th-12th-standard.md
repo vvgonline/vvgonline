@@ -20,3 +20,11 @@ Throughout the course, students will explore a wide range of topics, including:
     - Core Science: Basic principles of physics, biology, and chemistry.
     - Computer Science: Fundamentals of computer architecture, operating systems, databases, and algorithms.
     - Data Science: Introduction to data analysis, statistics, machine learning, and AI ethics.
+
+## Additional Course Features
+
+| Feature | Description | Benefits |
+|---------|-------------|----------|
+| Learning Modes | - Online- Offline- Hybrid | - Flexible learning schedule- Personalized experience- Accessibility |
+| Support System | - Experienced instructors- Mentor guidance- Career counseling | - Professional mentorship- Career path clarity- Continuous support |
+| Technology Requirements | - Laptop/Desktop- Stable Internet- Programming software | - Ensures smooth learning experience and access to course materials |
