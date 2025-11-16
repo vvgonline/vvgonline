@@ -246,7 +246,7 @@ We're here to help you navigate digital transformation and achieve sustainable g
 [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-vvgonline.net-ffdd33?style=for-the-badge)](https://vvgonline.net/)
 
 [![Email](https://img.shields.io/badge/📧_Email_Us-Contact-red?style=for-the-badge)](vvgonline.net@gmail.com)
-[![Schedule Consultation](https://img.shields.io/badge/📅_Schedule-Free_Consultation-green?style=for-the-badge)](#)
+[![Schedule Consultation](https://img.shields.io/badge/📅_Schedule-Free_Consultation-green?style=for-the-badge)](https://wa.me/919893261959)
 
 ### Follow Us
 
@@ -293,6 +293,25 @@ For licensing inquiries or partnerships, please contact us through our website.
 
 ---
 
-**Made with ❤️ for Digital Transformation**
+## 📺 Latest YouTube posts
+
+<!-- YOUTUBE:START -->
+- [Add Blazor to an existing ASP.NET MVC project](https://www.youtube.com/watch?v=luR_-CLlDU4)
+- [Create new Solution &amp; Projects using Dotnet CLI](https://www.youtube.com/watch?v=89TPsF12BnY)
+<!-- YOUTUBE:END -->
+
+<!-- STACKOVERFLOW:START -->
+<!-- ### 📥 Latest StackOverflow feed
+<!-- STACKOVERFLOW:END -->
+
+## ⚡ GitHub Stats
+
+[![VVGonline's github stats](https://github-readme-stats.vercel.app/api?username=vvgonline&show_icons=true&theme=synthwave)](https://github.com/vvgonline)
+![VVGonline github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vvgonline&theme=blue-green)
+
+[def]: https://www.youtube.com/@vvgonline
+
+Built with ❤️ by VVG ONLINE.  
+© 2025 VVG ONLINE | All rights reserved | [Privacy Policy](https://vvgonline.net/privacy.html)
 
 </div>
