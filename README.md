@@ -178,7 +178,7 @@ Optimize your technology infrastructure and operations:
 
 We follow a structured, proven methodology to ensure successful outcomes:
 
-![VVG ONLINE Approach](./public/vvg-online-approach.svg)
+![VVG ONLINE Approach](./public/VVG-online-Approach.png)
 
 ### 1. 🔍 Discovery & Assessment
 - Understand your business objectives and challenges
