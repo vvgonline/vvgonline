@@ -300,10 +300,6 @@ For licensing inquiries or partnerships, please contact us through our website.
 - [Create new Solution &amp; Projects using Dotnet CLI](https://www.youtube.com/watch?v=89TPsF12BnY)
 <!-- YOUTUBE:END -->
 
-<!-- STACKOVERFLOW:START -->
-<!-- ### 📥 Latest StackOverflow feed
-<!-- STACKOVERFLOW:END -->
-
 ## ⚡ GitHub Stats
 
 [![VVGonline's github stats](https://github-readme-stats.vercel.app/api?username=vvgonline&show_icons=true&theme=synthwave)](https://github.com/vvgonline)
