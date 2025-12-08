@@ -161,6 +161,18 @@ Your child won't be left to figure this out alone. Experienced instructors, ment
 
 ---
 
+## Overview: The 5-Year Journey
+
+| Grade Level | Primary Focus | Secondary Focus | Key Outcome |
+|---|---|---|---|
+| **Grade 8** | Programing Fundamentals + Math Foundation | Web Basics (HTML/CSS) | First working program + GitHub account |
+| **Grade 9** | Data Structures + Problem Solving | JavaScript Basics | Solve real problems with code |
+| **Grade 10** | Web Development + Databases | Intro to AI/ML concepts | Build and deploy a web project |
+| **Grade 11** | Choose Specialization (3 tracks: AI & Data Science, Web & Mobile Development, Systems & Security) | Industry-relevant tools | Deep expertise in chosen area |
+| **Grade 12** | Capstone Project + Portfolio | Interview prep | Job-ready or college-ready portfolio |
+
+---
+
 #### **💻 Programming & Tech Stack**
 *(From Zero to Hero—With Projects!)*
 
@@ -177,10 +189,10 @@ Your child won't be left to figure this out alone. Experienced instructors, ment
 
 #### **📚 Growth Mindset & Lifelong Learning**
 - **📖 Reading Habits**:
-  - **Books**: *"Clean Code"* (software), *"Sapiens"* (history), *"The Lean Startup"* (business).
+  - **Books**: *"Clean Code"* (software), *"Arthshastra"* (history+Economics), *"The Lean Startup"* (business).
   - **Newsletters**: *TLDR, The Hustle* (tech trends).
 - **🎯 Goal Setting**:
-  - **Quarterly Challenges**: e.g., *"Learn Python + build 3 projects"*.
+  - **Quarterly Challenges**: e.g., *"Learn Coding + build 3 ratical projects"*.
   - **Portfolio**: Showcase work on **GitHub**, **YouTube** Channel or a personal website.
 
 ---
@@ -212,6 +224,38 @@ Your child won't be left to figure this out alone. Experienced instructors, ment
 | Learning Modes | - Online- Offline- Hybrid | - Flexible learning schedule- Personalized experience- Accessibility |
 | Support System | - Experienced instructors- Mentor guidance- Career counseling | - Professional mentorship- Career path clarity- Continuous support |
 | Technology Requirements | - Laptop/Desktop- Stable Internet- Programming software | - Ensures smooth learning experience and access to course materials |
+
+---
+
+## How to Actually Make This Happen: Practical Tips
+
+### Have the Conversation First
+
+Before Grade 8 starts: What actually interests your child? Gaming? Building apps? Understanding AI? Making money online? The interest is the engine—without it, discipline alone won't carry them through 5 years.
+
+### We Should Set Realistic Expectations
+
+- Not every student will love coding. Some will. Celebrate either outcome.
+- Progress isn't linear. There will be stuck weeks. That's normal.
+- "Failure" at coding is learning. Normalize debugging.
+
+### Environment Matters
+
+- Dedicated, quiet space for at least 30 minutes at a time
+- Good laptop (doesn't need to be expensive, but needs to be reliable)
+- Fast internet for downloading libraries and uploading projects
+- All free tools: C#, VS Code, GitHub, cloud platforms (AWS/GCP free tiers)
+
+### Check Progress Quarterly, Not Constantly
+
+- Month 1: Are they running programs? Good.
+- Quarter 1: Do they have a GitHub account with something on it? Good.
+- Year 1: Do they have a complete project? Excellent.
+- Don't expect professional code from Grade 8. Expect improvement.
+
+### Stay Connected to Why
+
+Revisit the "why" every 6 months. Why are they doing this? If the answer shifts, that's okay—adjust. If it becomes "because my parent wants it"—that's a warning sign.
 
 ---
 
