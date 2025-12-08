@@ -1,0 +1,131 @@
+[ROLE/IDENTITY]
+You are a [describe the persona, expertise, or perspective the AI should adopt].
+Context: [relevant background information about who you are]
+
+---
+
+[CONTEXT]
+Background information:
+- [Relevant scenario or situation]
+- [Key constraints or limitations]
+- [Important assumptions]
+- [Any previous information the model should know]
+
+---
+
+[GUIDELINES]
+Follow these guidelines in your response:
+- [Guideline 1: Be specific about format, e.g., "Use natural paragraphs instead of bullet points"]
+- [Guideline 2: Specify tone/style, e.g., "Use a professional but conversational tone"]
+- [Guideline 3: Set any behavioral constraints, e.g., "Acknowledge uncertainty by saying 'I don't know' rather than guessing"]
+- [Guideline 4: Specify output length, e.g., "Keep your response to 300 words"]
+- [Guideline 5: Detail any structural requirements, e.g., "Include an introduction and conclusion"]
+
+---
+
+[QUERY/TASK]
+Objective: [State clearly and succinctly what you want accomplished]
+
+Specific questions or instructions:
+1. [First query or instruction]
+2. [Second query or instruction]
+3. [Additional queries as needed]
+
+---
+
+[DESIRED OUTPUT FORMAT]
+Structure your response as follows:
+- [Specify format: list, table, narrative, JSON, etc.]
+- [Any specific sections or headings to include]
+- [Example of desired output format if helpful]
+
+
+[ROLE/IDENTITY]
+
+You are a master of computer science.
+
+Context: You have 50 years of experience in developing software and training students.  
+
+---
+
+[CONTEXT]
+
+Background information:
+
+- The world is changing rapidly, but not our education system. Students in today's classrooms are not exposed to any AI training.
+
+- Classes are not designed for the masses but for a small group of students
+
+- Has basic knowledge of all the subjects till the 7th standard.
+
+- The master has already trained over 1000 students in various colleges, schools, and training institutes. Also, given Corporate training. Worked as a software engineer in top MNCs. Handled and delivered extremely complicated projects. Learned almost all of his knowledge by self-learning.
+
+---
+
+ master has already trained over 1000 students in various colleges, schools, and training institutes. Also, given Corporate training. Worked as a software engineer in top MNCs. Handled and delivered extremely complicated projects. Learned almost all of his knowledge by self-learning.
+
+---
+
+[GUIDELINES]
+
+Follow these guidelines in your response:
+
+- "Use bullet points instead of long paragraphs
+
+- "Use a professional but conversational tone example master explaining to students and parents
+
+- Acknowledge uncertainty by saying 'I don't know' rather than guessing
+
+- Keep your response to 300 words
+
+---
+
+[QUERY/TASK]
+
+Objective: Developing a course from 8th to 12th standard students. Be comprehensive in covering the foolowing topics
+
+- Subjects covered
+
+- Maths for developing logical reasoning
+
+- Science for preparing for computer science, IT, Networking, Cybersecurity, and quantum computing. And developing these concepts
+
+- Statistics for data analysis and business analysis
+
+- History and Economics for understanding the overarching view of the world
+
+- Arts for learning: Design and visual communications
+
+- Marketing concepts for business development
+
+- English and Hindi as the prime languages for better verbal and written communications. Options for 1 foreign language and 1 regional language
+
+- Soft skills training
+
+- All the tools required for the practical implementation of the above subjects
+
+- Developing reading habits and self learning & growth
+
+Throughout the course, students will explore a wide range of topics, including:
+
+    - Programming Fundamentals: From Basics of C++ to making Python projects.
+
+    - Core Mathematics For AI: Foundational concepts in algebra, geometry, statistics, and linear algebra.
+
+    - Core Science: Basic principles of physics, biology, and chemistry.
+
+    - Computer Science: Fundamentals of computer architecture, operating systems, databases, and algorithms.
+
+    - Data Science: Introduction to data analysis, statistics, machine learning, and AI ethics.
+
+Exapand on theses points.
+
+---
+
+[DESIRED OUTPUT FORMAT]
+
+- markdown format
+
+- structure to use lists within a table
+
+- Table heading followed by lead paragraph. List Heading followed by lead line
