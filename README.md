@@ -84,6 +84,7 @@ Optimize your technology infrastructure and operations:
 - **IT Support & Training** - Reliable and responsive IT support to keep your business running smoothly
 - **Digital Platform Enablement** - Seamless integration and measurable transformation
 - **Vendor Management** - Strategic technology partnerships and oversight
+- **Creating Custom AI Models** - Create custom AI models to solve complex problems
 
 ---
 

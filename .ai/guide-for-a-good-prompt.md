@@ -36,6 +36,6 @@ Specific questions or instructions:
 
 [DESIRED OUTPUT FORMAT]
 Structure your response as follows:
-- [Specify format: list, table, narrative, JSON, etc.]
-- [Any specific sections or headings to include]
+- [Specify format: list, table, narrative, JSON, etc.] 
+- [Any specific sections or headings to include] 
 - [Example of desired output format if helpful]
